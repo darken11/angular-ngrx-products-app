@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Smart phonl",
+      "price": 4000,
+      "quantity": 60,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "solo",
+      "price": "3",
+      "quantity": "2",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "ttattat",
+      "price": "12",
+      "quantity": "2",
+      "selected": true,
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "qdgdgsdg",
+      "price": "2",
+      "quantity": "3",
+      "selected": true,
+      "available": true,
+      "id": 6
+    },
+    {
+      "name": "dazda",
+      "price": "2",
+      "quantity": "2",
+      "selected": false,
+      "available": false,
+      "id": 7
+    }
+  ]
+}
